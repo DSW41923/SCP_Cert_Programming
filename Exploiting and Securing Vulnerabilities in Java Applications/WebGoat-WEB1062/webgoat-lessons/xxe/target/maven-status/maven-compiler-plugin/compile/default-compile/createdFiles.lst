@@ -1,0 +1,9 @@
+org/owasp/webgoat/plugin/Ping.class
+org/owasp/webgoat/plugin/ContentTypeAssignment.class
+org/owasp/webgoat/plugin/CommentsEndpoint.class
+org/owasp/webgoat/plugin/Comments.class
+org/owasp/webgoat/plugin/User.class
+org/owasp/webgoat/plugin/XXE.class
+org/owasp/webgoat/plugin/SimpleXXE.class
+org/owasp/webgoat/plugin/BlindSendFileAssignment.class
+org/owasp/webgoat/plugin/Comment.class

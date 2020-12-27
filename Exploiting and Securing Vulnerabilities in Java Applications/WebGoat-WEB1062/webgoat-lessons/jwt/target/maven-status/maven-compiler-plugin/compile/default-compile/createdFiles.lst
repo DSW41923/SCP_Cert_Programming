@@ -1,0 +1,10 @@
+org/owasp/webgoat/plugin/JWTFinalEndpoint$1.class
+org/owasp/webgoat/plugin/JWTRefreshEndpoint.class
+org/owasp/webgoat/plugin/votes/Vote.class
+org/owasp/webgoat/plugin/JWTFinalEndpoint.class
+org/owasp/webgoat/plugin/votes/Views$GuestView.class
+org/owasp/webgoat/plugin/votes/Views.class
+org/owasp/webgoat/plugin/JWTSecretKeyEndpoint.class
+org/owasp/webgoat/plugin/JWTVotesEndpoint.class
+org/owasp/webgoat/plugin/votes/Views$UserView.class
+org/owasp/webgoat/plugin/JWT.class

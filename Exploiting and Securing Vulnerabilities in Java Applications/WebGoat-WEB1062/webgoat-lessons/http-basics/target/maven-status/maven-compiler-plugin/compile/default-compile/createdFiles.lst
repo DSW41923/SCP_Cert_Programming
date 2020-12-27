@@ -1,0 +1,3 @@
+org/owasp/webgoat/plugin/HttpBasicsQuiz.class
+org/owasp/webgoat/plugin/HttpBasicsLesson.class
+org/owasp/webgoat/plugin/HttpBasics.class

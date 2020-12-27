@@ -1,0 +1,7 @@
+org/owasp/webgoat/plugin/ForgedReviews.class
+org/owasp/webgoat/plugin/CSRFGetFlag.class
+org/owasp/webgoat/plugin/CSRFFeedback.class
+org/owasp/webgoat/plugin/CSRFConfirmFlag1.class
+org/owasp/webgoat/plugin/Review.class
+org/owasp/webgoat/plugin/CSRF.class
+org/owasp/webgoat/plugin/CSRFLogin.class

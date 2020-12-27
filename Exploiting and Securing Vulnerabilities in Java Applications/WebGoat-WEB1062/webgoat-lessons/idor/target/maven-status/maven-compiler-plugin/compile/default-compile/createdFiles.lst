@@ -1,0 +1,8 @@
+org/owasp/webgoat/plugin/IDORViewOwnProfileAltUrl.class
+org/owasp/webgoat/plugin/IDORLogin.class
+org/owasp/webgoat/plugin/IDORViewOwnProfile.class
+org/owasp/webgoat/plugin/IDORViewOtherProfile.class
+org/owasp/webgoat/plugin/IDOREditOtherProfiile.class
+org/owasp/webgoat/plugin/UserProfile.class
+org/owasp/webgoat/plugin/IDORDiffAttributes.class
+org/owasp/webgoat/plugin/IDOR.class

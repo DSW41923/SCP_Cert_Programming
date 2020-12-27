@@ -1,0 +1,3 @@
+org/owasp/webgoat/plugin/BypassRestrictions.class
+org/owasp/webgoat/plugin/BypassRestrictionsFieldRestrictions.class
+org/owasp/webgoat/plugin/BypassRestrictionsFrontendValidation.class

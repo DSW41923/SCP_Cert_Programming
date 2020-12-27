@@ -1,0 +1,11 @@
+org/owasp/webgoat/plugin/mitigation/SqlInjectionLesson12a.class
+org/owasp/webgoat/plugin/advanced/SqlInjectionAdvanced.class
+org/owasp/webgoat/plugin/advanced/SqlInjectionLesson6a.class
+org/owasp/webgoat/plugin/introduction/SqlInjectionLesson5a.class
+org/owasp/webgoat/plugin/advanced/SqlInjectionLesson6b.class
+org/owasp/webgoat/plugin/mitigation/Servers$Server.class
+org/owasp/webgoat/plugin/mitigation/SqlInjectionMitigations.class
+org/owasp/webgoat/plugin/introduction/SqlInjection.class
+org/owasp/webgoat/plugin/mitigation/Servers.class
+org/owasp/webgoat/plugin/introduction/SqlInjectionLesson5b.class
+org/owasp/webgoat/plugin/advanced/SqlInjectionChallenge.class

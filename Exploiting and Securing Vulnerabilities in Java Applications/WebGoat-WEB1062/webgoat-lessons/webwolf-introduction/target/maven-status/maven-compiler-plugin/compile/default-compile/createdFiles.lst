@@ -1,0 +1,5 @@
+org/owasp/webgoat/plugin/WebWolfIntroduction.class
+org/owasp/webgoat/plugin/MailAssignment.class
+org/owasp/webgoat/plugin/Email$EmailBuilder.class
+org/owasp/webgoat/plugin/LandingAssignment.class
+org/owasp/webgoat/plugin/Email.class

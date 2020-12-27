@@ -1,0 +1,2 @@
+org/owasp/webgoat/plugin/HttpProxies.class
+org/owasp/webgoat/plugin/HttpBasicsInterceptRequest.class
